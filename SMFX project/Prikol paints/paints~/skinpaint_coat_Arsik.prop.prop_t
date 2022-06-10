@@ -1,0 +1,12 @@
+key parent paints~!TemplateSkinPaintTheme.prop
+string16 description "Arsik"
+colorRGBs paintThemeColor1s
+	(1, 1, 1)
+	(1, 1, 1)
+	(1, 1, 1)
+end
+keys paintThemePaints
+	animations~
+	skinpaint_coat_Arsik
+	animations~
+end

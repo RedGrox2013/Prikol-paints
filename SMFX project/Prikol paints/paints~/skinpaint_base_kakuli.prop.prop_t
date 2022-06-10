@@ -1,0 +1,12 @@
+key parent paints~!TemplateSkinPaintTheme.prop
+string16 description "Poop"
+colorRGBs paintThemeColor1s
+	(1, 0, 0.785714)
+	(1, 0, 0.785714)
+	(1, 0, 0.785714)
+end
+keys paintThemePaints
+	skinpaint_base_kakuli
+	animations~
+	animations~
+end

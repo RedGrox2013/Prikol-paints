@@ -1,0 +1,13 @@
+int32s palettePagePartItemColumns
+	0
+	1
+end
+int32s palettePagePartItemRows
+	0
+	0
+end
+keys palettePagePartItems
+	paints~!skinpaint_coat_Belarus
+	paints~!skinpaint_coat_Arsik
+end
+key palettePagePartParentPage PrikolPaints_coat_palette_pages

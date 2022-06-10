@@ -1,0 +1,6 @@
+key parent Adventure_brushes~!0x0762FAD0.prop
+key paletteCategoryIcon editors~!0x29563736.png
+key palettePageFilter 1
+key palettePageParentCategory creature_paint_palette_category~!ce_category_coat
+uint32 palettePageSequenceNumber 999
+int32 palettePageSetId 1

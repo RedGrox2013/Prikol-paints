@@ -1,0 +1,7 @@
+key parent Adventure_brushes~!TemplateManifest.prop
+keys validEditorKeys
+	paints~!skinpaint_coat_Belarus
+	paints~!skinpaint_base_salo
+	paints~!skinpaint_coat_Arsik
+	paints~!skinpaint_base_kakuli
+end

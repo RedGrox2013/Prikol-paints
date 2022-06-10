@@ -1,0 +1,12 @@
+key parent paints~!TemplateSkinPaintTheme.prop
+string16 description "Salo"
+colorRGBs paintThemeColor1s
+	(1, 1, 1)
+	(1, 1, 1)
+	(1, 1, 1)
+end
+keys paintThemePaints
+	skinpaint_base_salo
+	animations~
+	animations~
+end

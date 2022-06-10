@@ -1,0 +1,4 @@
+keys palettePalettePages
+	creature_paint_palette_pages~!PrikolPaints_coat_palette_pages
+	creature_paint_palette_pages~!PrikolPaints_base_palette_pages
+end

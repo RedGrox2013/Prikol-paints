@@ -1,0 +1,12 @@
+key parent paints~!TemplateSkinPaintTheme.prop
+string16 description "Belarus"
+colorRGBs paintThemeColor1s
+	(1, 1, 1)
+	(1, 1, 1)
+	(1, 1, 1)
+end
+keys paintThemePaints
+	animations~
+	skinpaint_coat_Belarus
+	animations~
+end
