@@ -1,13 +1,16 @@
 int32s palettePagePartItemColumns
 	0
 	1
+	2
 end
 int32s palettePagePartItemRows
+	0
 	0
 	0
 end
 keys palettePagePartItems
 	paints~!skinpaint_base_salo
 	paints~!skinpaint_base_kakuli
+	paints~!skinpaint_base_shiza
 end
 key palettePagePartParentPage PrikolPaints_base_palette_pages

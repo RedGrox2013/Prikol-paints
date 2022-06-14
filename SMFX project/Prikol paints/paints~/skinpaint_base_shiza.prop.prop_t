@@ -1,0 +1,12 @@
+key parent paints~!TemplateSkinPaintTheme.prop
+string16 description "Shiza"
+colorRGBs paintThemeColor1s
+	(1, 1, 1)
+	(1, 1, 1)
+	(1, 1, 1)
+end
+keys paintThemePaints
+	paints~!skinpaint_base_shiza
+	animations~
+	animations~
+end
